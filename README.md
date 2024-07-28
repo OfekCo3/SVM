@@ -1,10 +1,10 @@
 ### 🧠 SVM Model with Kernel Selection
 This project was developed as part of a machine learning course to demonstrate the application of Support Vector Machines (SVMs) for classification tasks and the process of selecting the best kernel for the given data.
-## ✨ Features
+#### ✨ Features
 - Supports multiple kernels: linear, polynomial and radial basis function (RBF).
 - Easy to use with a straightforward interface for data input and model training.
 - Generates performance metrics and visualizations to aid in model evaluation.
-## Some photos:
+#### Some photos:
 
 
 <img width="488" alt="question 1 dual model" src="https://github.com/OfekCo3/SVM/assets/133494565/5d768b97-daff-439a-8f82-db4fc24ef5f8">
